@@ -1,0 +1,38 @@
+*{
+   color: #fff;
+   background: #0e0d0d;
+  
+   }
+#terms{
+       margin: 0px 7%;
+       
+}
+h1{
+   text-align: center;
+   background-color:#0EB9EE;
+}
+h3,li{
+   font-family: sans-serif;
+   font-weight: 600;
+}
+p{
+   line-height: 25px;
+   font: 16px sans-serif;
+   margin: 1px 40px;
+}
+#back ,button{
+   text-decoration: none;
+   padding: 10px 20px;
+   background: #0EB9EE;
+   border-radius: 10px;
+   font-weight: 600;
+   color: #0c0c0c;
+   
+}
+button{
+   margin-left: 35%;
+   border: none;
+}
+input{
+   display:inline-block;
+}
