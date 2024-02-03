@@ -9,7 +9,7 @@
 }
 h1{
    text-align: center;
-   background-color:#0EB9EE;
+   background-color:#4070f4;
 }
 h3,li{
    font-family: sans-serif;
@@ -23,16 +23,21 @@ p{
 #back ,button{
    text-decoration: none;
    padding: 10px 20px;
-   background: #0EB9EE;
+   background:#4070f4 ;
    border-radius: 10px;
    font-weight: 600;
    color: #0c0c0c;
    
 }
-button{
+button {
    margin-left: 35%;
    border: none;
+   
 }
+#back{
+   color: #fff;
+}
+
 input{
    display:inline-block;
 }
