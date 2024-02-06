@@ -678,7 +678,7 @@
    * HEADER
    */
    .header { padding-block: 5px; }
-   .header.active { top: -60px; }
+   .header.active { top: -117px; }
    .header > .container { gap: 50px; }
    .nav-toggle-btn { display: none; }
    .navbar,
@@ -751,7 +751,7 @@
    /**
    * HEADER
    */
-   .header.active { top: -64px; }
+   .header.active { top: -90px; }
    .navbar-link { font-size: unset; }
    /**
    * HERO
